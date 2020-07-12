@@ -1,7 +1,7 @@
 ---
 path: hello-world
 date: 2020-07-12T14:29:05.937Z
-title: [INSERT STUPID NAME FOR FIRST BLOG POST HERE]
+title: INSERT STUPID NAME FOR FIRST BLOG POST HERE
 description: First real blog post
 ---
 Damn.
